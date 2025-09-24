@@ -1,3 +1,5 @@
+log_file: log-events-viewer-result (2).csv
+
 Run code build locally.
 
 https://docs.aws.amazon.com/codebuild/latest/userguide/use-codebuild-agent.html
